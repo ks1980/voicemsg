@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">This is a message from CCD emergency notification system. We observe multiple wan link failures in Mumbai site. Please join the conference bridge using URL sent by message</Say>
+    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
